@@ -1,0 +1,19 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "HTML its easy",
+      "important": false
+    },
+    {
+      "id": 2,
+      "content": "Bum bum bakudan",
+      "important": true
+    },
+    {
+      "id": 3,
+      "content": "Boken da boken",
+      "important": false
+    }
+  ]
+}
