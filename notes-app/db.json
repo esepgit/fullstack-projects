@@ -1,18 +1,43 @@
 {
   "notes": [
     {
-      "id": 1,
-      "content": "HTML its easy",
+      "id": "e88c",
+      "content": "Bum bum bakudan",
       "important": false
     },
     {
-      "id": 2,
+      "id": "69fa",
+      "content": "Natsu Dragneel",
+      "important": true
+    },
+    {
+      "id": "c0e1",
+      "content": "Bum bum bakudan",
+      "important": false
+    },
+    {
+      "id": "b523",
+      "content": "Bum bum bakudan",
+      "important": false
+    },
+    {
+      "id": "4b21",
       "content": "Bum bum bakudan",
       "important": true
     },
     {
-      "id": 3,
-      "content": "Boken da boken",
+      "id": "7ddb",
+      "content": "Bum bum bakudan",
+      "important": false
+    },
+    {
+      "id": "c704",
+      "content": "Bum bum bakudan",
+      "important": true
+    },
+    {
+      "id": "5cfb",
+      "content": "Bum bum bakudan",
       "important": false
     }
   ]
