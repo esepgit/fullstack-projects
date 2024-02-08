@@ -34,7 +34,7 @@ function App() {
 
   if (notes.length !== undefined) {
     return (
-      <div className="border-2 flex flex-col bg-green-200 h-full m-8">
+      <div className="border-2 flex flex-col bg-green-200 h-full m-8 pb-2 rounded-md">
         <h1 className="text-center text-2xl font-bold my-2">Notes app</h1>
         <Form createNote={createNote} />
         {notes.map((note) => <Notes key={note.id} note={note} deleteNote={deleteNote} changeImportance={changeImportance} />)}
